@@ -12,6 +12,7 @@ Files related to "On the Simultaneous Use of Fixed Effects on Cases and Time Poi
 Some things require greater *emphasize* and _slanty writing_ or **big ass bold letters** or *__both__* ~~but not other things~~
 
 Here is some Stata code I just wrote:
+
 ```*Connection between personal importance and extremity
 foreach var of varlist healthinsure govserv defspend govjobs aidblacks enviro {
 	gen `var'_ext = abs(`var')
