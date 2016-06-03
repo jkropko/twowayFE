@@ -15,13 +15,9 @@ Here is some Stata code I just wrote:
 
 ```
 *Connection between personal importance and extremity
-
 foreach var of varlist healthinsure govserv defspend govjobs aidblacks enviro {
-
 	gen `var'_ext = abs(`var')
-	
 	tab `var'_ext `var'_imp, row chi2
-	
 }
 ```
 
