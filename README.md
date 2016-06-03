@@ -21,5 +21,8 @@ foreach var of varlist healthinsure govserv defspend govjobs aidblacks enviro {
 }
 ```
 
+Remember, Don't Panic!
+>For instance, on the planet Earth, man had always assumed that he was more intelligent than dolphins because he had achieved so much—the wheel, New York, wars and so on—whilst all the dolphins had ever done was muck about in the water having a good time. But conversely, the dolphins had always believed that they were far more intelligent than man—for precisely the same reasons.
+
 Here is a picture of LeBron James:
 ![alt text](http://images.solecollector.com/complex/image/upload/qaf58xyfa2cbee9wm1af.jpg "Go Cavs")
